@@ -1,0 +1,9 @@
+node_modules/
+dist/
+src-tauri/target/
+dist-packages/AppDir/
+dist-packages/deb-build/
+dist-packages/rpmbuild/
+.local_agent/
+*.log
+.DS_Store
